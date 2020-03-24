@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yelp App</string>
+    <string-array name="query_suggestions">
+        <item>Restaurants</item>
+        <item>Coffee</item>
+        <item>Plumber</item>
+        <item>Sushi</item>
+        <item>Irvine</item>
+    </string-array>
+
+</resources>
